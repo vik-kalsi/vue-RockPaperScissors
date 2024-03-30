@@ -1,5 +1,10 @@
 # vue-RockPaperScissors
 
+<h3>Rock Paper Scissors (using Vue JS)</h3>
+<a href="https://vik-kalsi.github.io/vue-RockPaperScissors/">Click here to access the Rock Paper Scissors App</a>
+
+<br>
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
